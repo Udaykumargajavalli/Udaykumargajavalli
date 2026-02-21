@@ -1,3 +1,12 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=44&duration=2900&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Udaykumar+Gajavalli;AI+Engineer;AI+Data+Scientist;Agentic+AI+Developer)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/udaykumar-gajavalli-791552137/">LinkedIn</a> •
+  <a href="https://github.com/Udaykumargajavalli">GitHub</a> •
+  <a href="mailto:udaygajavalli1996@gmail.com">Email</a>
+</p>
+
+
 👋 Hi there! I'm an experienced **AI Data Scientist & AI Engineer** with over 7 years of industry expertise, currently working at LinkedIn. I focus on building and scaling intelligent systems that power real-world impact across millions of users.
 
 🔍 I specialize in:
