@@ -7,7 +7,7 @@
 </p>
 
 
-👋 Hi there! I'm an experienced **AI Data Scientist & AI Engineer** with over 7 years of industry expertise, currently working at LinkedIn. I focus on building and scaling intelligent systems that power real-world impact across millions of users.
+👋 Hi there! I'm an experienced **AI Data Scientist & AI Engineer** with over 7 years of industry expertise, currently working at Microsoft. I focus on building and scaling intelligent systems that power real-world impact across millions of users.
 
 🔍 I specialize in:
 
