@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=44&duration=2900&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Udaykumar+Gajavalli;AI+Engineer;AI+Data+Scientist;Agentic+AI+Developer)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/udaykumar-gajavalli-791552137/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/udaykumargajavalli/">LinkedIn</a> •
   <a href="https://github.com/Udaykumargajavalli">GitHub</a> •
   <a href="https://topmate.io/udaykumar_gajavalli/">Topmate</a> •
   <a href="https://preplaced.in/profile/udaykumar-gajavalli">Preplaced</a> •
