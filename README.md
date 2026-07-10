@@ -3,7 +3,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/udaykumar-gajavalli-791552137/">LinkedIn</a> •
   <a href="https://github.com/Udaykumargajavalli">GitHub</a> •
+  <a href="https://topmate.io/udaykumar_gajavalli/">Topmate</a> •
+  <a href="https://preplaced.in/profile/udaykumar-gajavalli">Preplaced</a> •
+ 
   <a href="mailto:udaygajavalli1996@gmail.com">Email</a>
+  
 </p>
 
 
